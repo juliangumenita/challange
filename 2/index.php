@@ -1,7 +1,7 @@
 <?php
 
   /*
-  * Challange #1 — 14.09.2018
+  * Challange #2 — 14.09.2018
   * by @Uber.
   * Given an array of integers, return a new array such that each element at
   * index i of the new array is the product of all the numbers in the original
